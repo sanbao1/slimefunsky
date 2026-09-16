@@ -1,11 +1,11 @@
 ## CHANGE 更改此处为你的附属名称
-name: SlimefunAddon
+name: Slimefunsky
 
 ## CHANGE 更改此处为你的名称
-author: CHANGEME
+author: 爱唱歌的艾斯灵
 
 ## CHANGE 这是对你插件的介绍
-description: A generic Slimefun4-Addon
+description: sky, a Slimefun4-Addon
 
 ## CHANGE 指向你的 JavaPlugin 主类
 main: me.CHANGEME.slimefunaddon.ExampleAddon
